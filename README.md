@@ -17,5 +17,7 @@ Get up and running in a few simple steps:
   5) Update the ```_CoqProject``` file to reflect your name.
 
   6) Run ```make``` and check out ```test-suite/demo.v```
+  
+  7) Update the LICENSE file by completing the line for your copyright claim or add your own license statement if you don't want to use MIT.
 
 All done.
